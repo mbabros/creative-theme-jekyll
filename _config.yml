@@ -1,12 +1,12 @@
 # Site settings
-title: Crypto Mode Consulting
-email: admin@cryptomodeconsulting.com
+title: MBA Brothers
+email: admin@mbabros.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username: cryptomode
+github_username:mbabros
 
 # Build settings
 markdown: kramdown
